@@ -1,0 +1,420 @@
+Epoch: 0 LR: [0.0001]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 1, 'verbose': False, '_step_count': 2, '_get_lr_called_within_step': False, '_last_lr': [0.0001]}
+Training loss:0.6660779361822167
+Training accuracy:0.5141129493713379
+Validation loss:0.6400036156177521
+Validation accuracy:0.6394282579421997
+Epoch: 1 LR: [0.0001]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 2, 'verbose': False, '_step_count': 3, '_get_lr_called_within_step': False, '_last_lr': [0.0001]}
+Training loss:0.6506277500809013
+Training accuracy:0.5880687832832336
+Validation loss:0.6381635506947835
+Validation accuracy:0.6291300654411316
+Epoch: 2 LR: [0.0001]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 3, 'verbose': False, '_step_count': 4, '_get_lr_called_within_step': False, '_last_lr': [0.0001]}
+Training loss:0.6436420558556113
+Training accuracy:0.6173989772796631
+Validation loss:0.6440525362888972
+Validation accuracy:0.6523409485816956
+Epoch: 3 LR: [0.0001]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 4, 'verbose': False, '_step_count': 5, '_get_lr_called_within_step': False, '_last_lr': [0.0001]}
+Training loss:0.6403798615224728
+Training accuracy:0.6379566192626953
+Validation loss:0.6323054432868958
+Validation accuracy:0.6838073134422302
+Epoch: 4 LR: [8.1e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 5, 'verbose': False, '_step_count': 6, '_get_lr_called_within_step': False, '_last_lr': [9e-05]}
+Training loss:0.6357260710233218
+Training accuracy:0.6494987607002258
+Validation loss:0.6341712256272634
+Validation accuracy:0.6783185601234436
+Epoch: 5 LR: [9e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 6, 'verbose': False, '_step_count': 7, '_get_lr_called_within_step': False, '_last_lr': [9e-05]}
+Training loss:0.6341315389564175
+Training accuracy:0.6638386249542236
+Validation loss:0.6315553555885951
+Validation accuracy:0.680896520614624
+Epoch: 6 LR: [9e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 7, 'verbose': False, '_step_count': 8, '_get_lr_called_within_step': False, '_last_lr': [9e-05]}
+Training loss:0.6334697329378748
+Training accuracy:0.6609869003295898
+Validation loss:0.632115493218104
+Validation accuracy:0.6857008934020996
+Epoch: 7 LR: [9e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 8, 'verbose': False, '_step_count': 9, '_get_lr_called_within_step': False, '_last_lr': [9e-05]}
+Training loss:0.6333337472630786
+Training accuracy:0.659540057182312
+Validation loss:0.6300375352303187
+Validation accuracy:0.6842264533042908
+Epoch: 8 LR: [9e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 9, 'verbose': False, '_step_count': 10, '_get_lr_called_within_step': False, '_last_lr': [9e-05]}
+Training loss:0.6323056106554112
+Training accuracy:0.6653599143028259
+Validation loss:0.629895098010699
+Validation accuracy:0.6906885504722595
+Epoch: 9 LR: [7.290000000000001e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 10, 'verbose': False, '_step_count': 11, '_get_lr_called_within_step': False, '_last_lr': [8.1e-05]}
+Training loss:0.6298405326806106
+Training accuracy:0.6728314757347107
+Validation loss:0.6308026383320491
+Validation accuracy:0.6870710849761963
+Epoch: 10 LR: [8.1e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 11, 'verbose': False, '_step_count': 12, '_get_lr_called_within_step': False, '_last_lr': [8.1e-05]}
+Training loss:0.6279191044686234
+Training accuracy:0.6862491965293884
+Validation loss:0.6296512524286906
+Validation accuracy:0.6918980479240417
+Epoch: 11 LR: [8.1e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 12, 'verbose': False, '_step_count': 13, '_get_lr_called_within_step': False, '_last_lr': [8.1e-05]}
+Training loss:0.6265813871969319
+Training accuracy:0.6926630139350891
+Validation loss:0.6294598112503688
+Validation accuracy:0.7063909769058228
+Epoch: 12 LR: [8.1e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 13, 'verbose': False, '_step_count': 14, '_get_lr_called_within_step': False, '_last_lr': [8.1e-05]}
+Training loss:0.6267937638542869
+Training accuracy:0.6967874765396118
+Validation loss:0.6327679028113683
+Validation accuracy:0.7044717073440552
+Epoch: 13 LR: [8.1e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 14, 'verbose': False, '_step_count': 15, '_get_lr_called_within_step': False, '_last_lr': [8.1e-05]}
+Training loss:0.6265932142955695
+Training accuracy:0.6978005766868591
+Validation loss:0.6315642674763997
+Validation accuracy:0.6825950145721436
+Epoch: 14 LR: [6.561000000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 15, 'verbose': False, '_step_count': 16, '_get_lr_called_within_step': False, '_last_lr': [7.290000000000001e-05]}
+Training loss:0.624793308342985
+Training accuracy:0.7038738131523132
+Validation loss:0.6298070758581161
+Validation accuracy:0.7090927362442017
+Epoch: 15 LR: [7.290000000000001e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 16, 'verbose': False, '_step_count': 17, '_get_lr_called_within_step': False, '_last_lr': [7.290000000000001e-05]}
+Training loss:0.623782179351198
+Training accuracy:0.7103917598724365
+Validation loss:0.630210746328036
+Validation accuracy:0.7021622657775879
+Epoch: 16 LR: [7.290000000000001e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 17, 'verbose': False, '_step_count': 18, '_get_lr_called_within_step': False, '_last_lr': [7.290000000000001e-05]}
+Training loss:0.6248053590419783
+Training accuracy:0.7144442200660706
+Validation loss:0.6380591571331025
+Validation accuracy:0.6850154399871826
+Epoch: 17 LR: [7.290000000000001e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 18, 'verbose': False, '_step_count': 19, '_get_lr_called_within_step': False, '_last_lr': [7.290000000000001e-05]}
+Training loss:0.621629155080261
+Training accuracy:0.7252092361450195
+Validation loss:0.6328626563151677
+Validation accuracy:0.7017149329185486
+Epoch: 18 LR: [7.290000000000001e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 19, 'verbose': False, '_step_count': 20, '_get_lr_called_within_step': False, '_last_lr': [7.290000000000001e-05]}
+Training loss:0.6207351436309779
+Training accuracy:0.7335351705551147
+Validation loss:0.6399983207384745
+Validation accuracy:0.6899341940879822
+Epoch: 19 LR: [5.904900000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 20, 'verbose': False, '_step_count': 21, '_get_lr_called_within_step': False, '_last_lr': [6.561000000000002e-05]}
+Training loss:0.6191870428082673
+Training accuracy:0.7434943318367004
+Validation loss:0.6347190141677856
+Validation accuracy:0.7016835808753967
+Epoch: 20 LR: [6.561000000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 21, 'verbose': False, '_step_count': 22, '_get_lr_called_within_step': False, '_last_lr': [6.561000000000002e-05]}
+Training loss:0.6200446122652524
+Training accuracy:0.7353178262710571
+Validation loss:0.6347842742999394
+Validation accuracy:0.6967118382453918
+Epoch: 21 LR: [6.561000000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 22, 'verbose': False, '_step_count': 23, '_get_lr_called_within_step': False, '_last_lr': [6.561000000000002e-05]}
+Training loss:0.6189064046779236
+Training accuracy:0.7479329109191895
+Validation loss:0.6307906250158946
+Validation accuracy:0.7105950713157654
+Epoch: 22 LR: [6.561000000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 23, 'verbose': False, '_step_count': 24, '_get_lr_called_within_step': False, '_last_lr': [6.561000000000002e-05]}
+Training loss:0.6169903607890425
+Training accuracy:0.7597309350967407
+Validation loss:0.6325328151384989
+Validation accuracy:0.7102967500686646
+Epoch: 23 LR: [6.561000000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 24, 'verbose': False, '_step_count': 25, '_get_lr_called_within_step': False, '_last_lr': [6.561000000000002e-05]}
+Training loss:0.6168496246572328
+Training accuracy:0.7611902356147766
+Validation loss:0.6330357958873113
+Validation accuracy:0.7039015889167786
+Epoch: 24 LR: [5.314410000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 25, 'verbose': False, '_step_count': 26, '_get_lr_called_within_step': False, '_last_lr': [5.904900000000002e-05]}
+Training loss:0.6180285184967275
+Training accuracy:0.7529935240745544
+Validation loss:0.631923645734787
+Validation accuracy:0.7043513655662537
+Epoch: 25 LR: [5.904900000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 26, 'verbose': False, '_step_count': 27, '_get_lr_called_within_step': False, '_last_lr': [5.904900000000002e-05]}
+Training loss:0.6176219934214024
+Training accuracy:0.7609344124794006
+Validation loss:0.6386825054883957
+Validation accuracy:0.6881381869316101
+Epoch: 26 LR: [5.904900000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 27, 'verbose': False, '_step_count': 28, '_get_lr_called_within_step': False, '_last_lr': [5.904900000000002e-05]}
+Training loss:0.6177664963677111
+Training accuracy:0.7527468800544739
+Validation loss:0.6367197970549265
+Validation accuracy:0.693333089351654
+Epoch: 27 LR: [5.904900000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 28, 'verbose': False, '_step_count': 29, '_get_lr_called_within_step': False, '_last_lr': [5.904900000000002e-05]}
+Training loss:0.6151344911618666
+Training accuracy:0.7737419605255127
+Validation loss:0.6324711074431737
+Validation accuracy:0.7073053121566772
+Epoch: 28 LR: [5.904900000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 29, 'verbose': False, '_step_count': 30, '_get_lr_called_within_step': False, '_last_lr': [5.904900000000002e-05]}
+Training loss:0.6151234948237
+Training accuracy:0.7733016610145569
+Validation loss:0.6292381048202514
+Validation accuracy:0.7181615233421326
+Epoch: 29 LR: [4.782969000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 30, 'verbose': False, '_step_count': 31, '_get_lr_called_within_step': False, '_last_lr': [5.314410000000002e-05]}
+Training loss:0.6139455515068847
+Training accuracy:0.7841830253601074
+Validation loss:0.6317657023668289
+Validation accuracy:0.7377371191978455
+Epoch: 30 LR: [5.314410000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 31, 'verbose': False, '_step_count': 32, '_get_lr_called_within_step': False, '_last_lr': [5.314410000000002e-05]}
+Training loss:0.6140726082621346
+Training accuracy:0.7832133769989014
+Validation loss:0.6301842172940572
+Validation accuracy:0.7176480889320374
+Epoch: 31 LR: [5.314410000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 32, 'verbose': False, '_step_count': 33, '_get_lr_called_within_step': False, '_last_lr': [5.314410000000002e-05]}
+Training loss:0.6133917573431649
+Training accuracy:0.7918953895568848
+Validation loss:0.6304270644982656
+Validation accuracy:0.7328822612762451
+Epoch: 32 LR: [5.314410000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 33, 'verbose': False, '_step_count': 34, '_get_lr_called_within_step': False, '_last_lr': [5.314410000000002e-05]}
+Training loss:0.6122147578034197
+Training accuracy:0.8076168298721313
+Validation loss:0.6312826136747997
+Validation accuracy:0.719015896320343
+Epoch: 33 LR: [5.314410000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 34, 'verbose': False, '_step_count': 35, '_get_lr_called_within_step': False, '_last_lr': [5.314410000000002e-05]}
+Training loss:0.6117031629541145
+Training accuracy:0.8161717653274536
+Validation loss:0.6331069479386012
+Validation accuracy:0.7354573011398315
+Epoch: 34 LR: [4.304672100000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 35, 'verbose': False, '_step_count': 36, '_get_lr_called_within_step': False, '_last_lr': [4.782969000000002e-05]}
+Training loss:0.6096270897724633
+Training accuracy:0.8248032927513123
+Validation loss:0.631322901447614
+Validation accuracy:0.7111672759056091
+Epoch: 35 LR: [4.782969000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 36, 'verbose': False, '_step_count': 37, '_get_lr_called_within_step': False, '_last_lr': [4.782969000000002e-05]}
+Training loss:0.6092483526811087
+Training accuracy:0.8281785249710083
+Validation loss:0.6287667800982794
+Validation accuracy:0.7388948202133179
+Epoch: 36 LR: [4.782969000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 37, 'verbose': False, '_step_count': 38, '_get_lr_called_within_step': False, '_last_lr': [4.782969000000002e-05]}
+Training loss:0.6074510932189856
+Training accuracy:0.8437493443489075
+Validation loss:0.6288905382156372
+Validation accuracy:0.7356078624725342
+Epoch: 37 LR: [4.782969000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 38, 'verbose': False, '_step_count': 39, '_get_lr_called_within_step': False, '_last_lr': [4.782969000000002e-05]}
+Training loss:0.6067850348679608
+Training accuracy:0.8503839373588562
+Validation loss:0.6303393135468165
+Validation accuracy:0.7455667853355408
+Epoch: 38 LR: [4.782969000000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 39, 'verbose': False, '_step_count': 40, '_get_lr_called_within_step': False, '_last_lr': [4.782969000000002e-05]}
+Training loss:0.6051876882785768
+Training accuracy:0.8614969849586487
+Validation loss:0.6337153861920038
+Validation accuracy:0.7448955178260803
+Epoch: 39 LR: [3.874204890000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 40, 'verbose': False, '_step_count': 41, '_get_lr_called_within_step': False, '_last_lr': [4.304672100000002e-05]}
+Training loss:0.604584149007231
+Training accuracy:0.866935670375824
+Validation loss:0.6323990662892659
+Validation accuracy:0.7416340112686157
+Epoch: 40 LR: [4.304672100000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 41, 'verbose': False, '_step_count': 42, '_get_lr_called_within_step': False, '_last_lr': [4.304672100000002e-05]}
+Training loss:0.6041674591835885
+Training accuracy:0.8704630136489868
+Validation loss:0.62899283071359
+Validation accuracy:0.7449516654014587
+Epoch: 41 LR: [4.304672100000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 42, 'verbose': False, '_step_count': 43, '_get_lr_called_within_step': False, '_last_lr': [4.304672100000002e-05]}
+Training loss:0.603539508271527
+Training accuracy:0.8779226541519165
+Validation loss:0.6299914330244064
+Validation accuracy:0.7332987785339355
+Epoch: 42 LR: [4.304672100000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 43, 'verbose': False, '_step_count': 44, '_get_lr_called_within_step': False, '_last_lr': [4.304672100000002e-05]}
+Training loss:0.6024705638248535
+Training accuracy:0.8835844397544861
+Validation loss:0.6304743568102519
+Validation accuracy:0.7399666905403137
+Epoch: 43 LR: [4.304672100000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 44, 'verbose': False, '_step_count': 45, '_get_lr_called_within_step': False, '_last_lr': [4.304672100000002e-05]}
+Training loss:0.6019704779800104
+Training accuracy:0.8872033357620239
+Validation loss:0.6306065112352371
+Validation accuracy:0.7298709750175476
+Epoch: 44 LR: [3.4867844010000016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 45, 'verbose': False, '_step_count': 46, '_get_lr_called_within_step': False, '_last_lr': [3.874204890000002e-05]}
+Training loss:0.6024314710293276
+Training accuracy:0.8838855028152466
+Validation loss:0.6346560209989548
+Validation accuracy:0.7337242364883423
+Epoch: 45 LR: [3.874204890000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 46, 'verbose': False, '_step_count': 47, '_get_lr_called_within_step': False, '_last_lr': [3.874204890000002e-05]}
+Training loss:0.6018016493718567
+Training accuracy:0.890984296798706
+Validation loss:0.6330125361680985
+Validation accuracy:0.7334285974502563
+Epoch: 46 LR: [3.874204890000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 47, 'verbose': False, '_step_count': 48, '_get_lr_called_within_step': False, '_last_lr': [3.874204890000002e-05]}
+Training loss:0.6013390096198208
+Training accuracy:0.8911690711975098
+Validation loss:0.6344258685906728
+Validation accuracy:0.7253005504608154
+Epoch: 47 LR: [3.874204890000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 48, 'verbose': False, '_step_count': 49, '_get_lr_called_within_step': False, '_last_lr': [3.874204890000002e-05]}
+Training loss:0.6010567467376341
+Training accuracy:0.8940765261650085
+Validation loss:0.6385543425877889
+Validation accuracy:0.7095456123352051
+Epoch: 48 LR: [3.874204890000002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 49, 'verbose': False, '_step_count': 50, '_get_lr_called_within_step': False, '_last_lr': [3.874204890000002e-05]}
+Training loss:0.6008063909184733
+Training accuracy:0.8939206600189209
+Validation loss:0.6316883742809296
+Validation accuracy:0.7421726584434509
+Epoch: 49 LR: [3.138105960900002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 50, 'verbose': False, '_step_count': 51, '_get_lr_called_within_step': False, '_last_lr': [3.4867844010000016e-05]}
+Training loss:0.6009280173477746
+Training accuracy:0.8940851092338562
+Validation loss:0.6320459961891174
+Validation accuracy:0.7275906801223755
+Epoch: 50 LR: [3.4867844010000016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 51, 'verbose': False, '_step_count': 52, '_get_lr_called_within_step': False, '_last_lr': [3.4867844010000016e-05]}
+Training loss:0.6000485487130224
+Training accuracy:0.9014202952384949
+Validation loss:0.63325008948644
+Validation accuracy:0.7333813309669495
+Epoch: 51 LR: [3.4867844010000016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 52, 'verbose': False, '_step_count': 53, '_get_lr_called_within_step': False, '_last_lr': [3.4867844010000016e-05]}
+Training loss:0.5996774333859197
+Training accuracy:0.9049766659736633
+Validation loss:0.634879274169604
+Validation accuracy:0.7309783697128296
+Epoch: 52 LR: [3.4867844010000016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 53, 'verbose': False, '_step_count': 54, '_get_lr_called_within_step': False, '_last_lr': [3.4867844010000016e-05]}
+Training loss:0.5994702184465688
+Training accuracy:0.9059190154075623
+Validation loss:0.6300426582495372
+Validation accuracy:0.7392185926437378
+Epoch: 53 LR: [3.4867844010000016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 54, 'verbose': False, '_step_count': 55, '_get_lr_called_within_step': False, '_last_lr': [3.4867844010000016e-05]}
+Training loss:0.5994844005921776
+Training accuracy:0.9051060676574707
+Validation loss:0.6316459914048512
+Validation accuracy:0.7347909212112427
+Epoch: 54 LR: [2.8242953648100018e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 55, 'verbose': False, '_step_count': 56, '_get_lr_called_within_step': False, '_last_lr': [3.138105960900002e-05]}
+Training loss:0.5992114480329135
+Training accuracy:0.9069663882255554
+Validation loss:0.6330810358126958
+Validation accuracy:0.7357017993927002
+Epoch: 55 LR: [3.138105960900002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 56, 'verbose': False, '_step_count': 57, '_get_lr_called_within_step': False, '_last_lr': [3.138105960900002e-05]}
+Training loss:0.599025540261189
+Training accuracy:0.9091061949729919
+Validation loss:0.6331866711378098
+Validation accuracy:0.7350878715515137
+Epoch: 56 LR: [3.138105960900002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 57, 'verbose': False, '_step_count': 58, '_get_lr_called_within_step': False, '_last_lr': [3.138105960900002e-05]}
+Training loss:0.5991366701356113
+Training accuracy:0.9069095849990845
+Validation loss:0.6397849003473918
+Validation accuracy:0.7157086133956909
+Epoch: 57 LR: [3.138105960900002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 58, 'verbose': False, '_step_count': 59, '_get_lr_called_within_step': False, '_last_lr': [3.138105960900002e-05]}
+Training loss:0.5988820300805546
+Training accuracy:0.9089912176132202
+Validation loss:0.6307580182949702
+Validation accuracy:0.7369116544723511
+Epoch: 58 LR: [3.138105960900002e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 59, 'verbose': False, '_step_count': 60, '_get_lr_called_within_step': False, '_last_lr': [3.138105960900002e-05]}
+Training loss:0.5983720296831432
+Training accuracy:0.9129395484924316
+Validation loss:0.6297807852427165
+Validation accuracy:0.7424697279930115
+Epoch: 59 LR: [2.5418658283290016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 60, 'verbose': False, '_step_count': 61, '_get_lr_called_within_step': False, '_last_lr': [2.8242953648100018e-05]}
+Training loss:0.5984237258199858
+Training accuracy:0.9151154160499573
+Validation loss:0.6319139719009399
+Validation accuracy:0.7339988946914673
+Epoch: 60 LR: [2.8242953648100018e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 61, 'verbose': False, '_step_count': 62, '_get_lr_called_within_step': False, '_last_lr': [2.8242953648100018e-05]}
+Training loss:0.5986165636545652
+Training accuracy:0.9120662212371826
+Validation loss:0.6333087941010793
+Validation accuracy:0.7302959561347961
+Epoch: 61 LR: [2.8242953648100018e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 62, 'verbose': False, '_step_count': 63, '_get_lr_called_within_step': False, '_last_lr': [2.8242953648100018e-05]}
+Training loss:0.5981040499648269
+Training accuracy:0.9174461364746094
+Validation loss:0.6310520619153976
+Validation accuracy:0.7340030670166016
+Epoch: 62 LR: [2.8242953648100018e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 63, 'verbose': False, '_step_count': 64, '_get_lr_called_within_step': False, '_last_lr': [2.8242953648100018e-05]}
+Training loss:0.5978657434070708
+Training accuracy:0.9185228943824768
+Validation loss:0.6312412639458974
+Validation accuracy:0.7321815490722656
+Epoch: 63 LR: [2.8242953648100018e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 64, 'verbose': False, '_step_count': 65, '_get_lr_called_within_step': False, '_last_lr': [2.8242953648100018e-05]}
+Training loss:0.5977937998267405
+Training accuracy:0.91987144947052
+Validation loss:0.6324079155921936
+Validation accuracy:0.7383826375007629
+Epoch: 64 LR: [2.2876792454961016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 65, 'verbose': False, '_step_count': 66, '_get_lr_called_within_step': False, '_last_lr': [2.5418658283290016e-05]}
+Training loss:0.597842724402893
+Training accuracy:0.9180163741111755
+Validation loss:0.6318863769372304
+Validation accuracy:0.7406665682792664
+Epoch: 65 LR: [2.5418658283290016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 66, 'verbose': False, '_step_count': 67, '_get_lr_called_within_step': False, '_last_lr': [2.5418658283290016e-05]}
+Training loss:0.5976495155045185
+Training accuracy:0.9211558699607849
+Validation loss:0.630127873023351
+Validation accuracy:0.7358805537223816
+Epoch: 66 LR: [2.5418658283290016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 67, 'verbose': False, '_step_count': 68, '_get_lr_called_within_step': False, '_last_lr': [2.5418658283290016e-05]}
+Training loss:0.5978433843114601
+Training accuracy:0.9203813076019287
+Validation loss:0.6315837174654007
+Validation accuracy:0.7324007749557495
+Epoch: 67 LR: [2.5418658283290016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 68, 'verbose': False, '_step_count': 69, '_get_lr_called_within_step': False, '_last_lr': [2.5418658283290016e-05]}
+Training loss:0.5976924928862443
+Training accuracy:0.9200636744499207
+Validation loss:0.6309482942024867
+Validation accuracy:0.7341204881668091
+Epoch: 68 LR: [2.5418658283290016e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 69, 'verbose': False, '_step_count': 70, '_get_lr_called_within_step': False, '_last_lr': [2.5418658283290016e-05]}
+Training loss:0.5976164512377723
+Training accuracy:0.9218072295188904
+Validation loss:0.6305223127206167
+Validation accuracy:0.739276647567749
+Epoch: 69 LR: [2.0589113209464913e-05]
+{'step_size': 5, 'gamma': 0.9, 'base_lrs': [0.0001], 'last_epoch': 70, 'verbose': False, '_step_count': 71, '_get_lr_called_within_step': False, '_last_lr': [2.2876792454961016e-05]}
+Training loss:0.59724801386221
+Training accuracy:0.924752950668335
+Validation loss:0.6308353751897812
+Validation accuracy:0.74151211977005
